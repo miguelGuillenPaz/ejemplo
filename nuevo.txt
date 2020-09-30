@@ -1,3 +1,5 @@
 Hola, este es mi nuevo proyecto en git
 
 Lo primero que haré es guardar este archivo para activar el trackeo de git a través del comando git.in
+
+MIT nuevo curso 
