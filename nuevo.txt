@@ -4,14 +4,11 @@ Lo primero que haré es guardar este archivo para activar el trackeo de git a tr
 
 MIT nuevo curso 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 curso de platzi
-=======
+
 experimento 1
->>>>>>> f89878b... exp 1
-=======
+
 experimento 1
 
 experimento 2
->>>>>>> 3c9efd7... exp 2
+
